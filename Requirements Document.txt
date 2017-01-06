@@ -1,0 +1,19 @@
+Requirements
+
+Phase 0
+
+Stock Markets Targeted - BSE/NSE
+
+Line Items Reqd
+  Real Time Stock Price/min & Archived Past Data [QuantMod/Google]
+  Financial News as P/e Ratio, Dividends, Reports, Leaders Statement [MoneyControl]
+  Online Sentiments from General News Feed [Google NewsFeed]
+  News from Global Organisations as UN/UNESCO/BRIC/SAARC etc. [FT/ET/Hindu/FirstPost/Reuters/NYT/IndependentUK/Self Sites]
+  USD/INR, Oil Prices, Gold & Silver [QuantMod]
+
+Phase 1
+
+	# of Stocks - 50
+	Type - Blue-Chip/Mid-Cap/Small/SME
+  Industry - Banking/FS, IT, Pharma/Health Sector, Energy, Real Estate
+  
