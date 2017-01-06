@@ -13,7 +13,11 @@ Line Items Reqd
 
 Phase 1
 
-	# of Stocks - 50
+# of Stocks - 50
 	Type - Blue-Chip/Mid-Cap/Small/SME
-  Industry - Banking/FS, IT, Pharma/Health Sector, Energy, Real Estate
-  
+  	Industry - Banking/FS, IT, Pharma/Health Sector, Energy, Real Estate
+
+Stock Selection Criteria
+	Price Bands
+	Std. Dev. in 52 Weeks
+
