@@ -1,6 +1,4 @@
-Requirements
-
-Phase 0
+Phase 0 [Requirements]
 
 Stock Markets Targeted - BSE/NSE
 
@@ -11,7 +9,7 @@ Line Items Reqd
 	News from Global Organisations as UN/UNESCO/BRIC/SAARC etc. [FT/ET/Hindu/FirstPost/Reuters/NYT/IndependentUK/Self Sites]
 	USD/INR, Oil Prices, Gold & Silver [QuantMod]
 
-Phase 1
+Phase 1 [Exec0]
 
 Basic feel of data for 1 of the stock basis requirement [Phase 0]
 
