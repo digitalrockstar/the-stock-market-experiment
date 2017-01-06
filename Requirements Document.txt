@@ -24,4 +24,3 @@ Stock Selection Criteria
 	25 stocks per Industry
 	Price Bands
 	Std. Dev. in 52 Weeks
-	
