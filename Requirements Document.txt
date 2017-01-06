@@ -15,9 +15,13 @@ Phase 1
 
 # of Stocks - 50
 	Type - Blue-Chip/Mid-Cap/Small/SME
-  	Industry - Banking/FS, IT, Pharma/Health Sector, Energy, Real Estate
+  Industry - Banking/FS, IT, Pharma/Health Sector, Energy, Real Estate
+
+Select Type - Blue-Chip/Mid-Cap
+Select Industry - Banking/FS, IT
 
 Stock Selection Criteria
+	25 stocks per Industry
 	Price Bands
 	Std. Dev. in 52 Weeks
-
+	
